@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<div
+  className="calculator"
+>
+  <input
+    disabled={true}
+    type="text"
+    value=""
+  />
+  <div
+    className="calculator-buttons"
+  >
+    <button
+      className="calc-button is-clear"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "Clear",
+        }
+      }
+      id="c"
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-red"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "&#247;",
+        }
+      }
+      id="/"
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "7",
+        }
+      }
+      id={7}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "8",
+        }
+      }
+      id={8}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "9",
+        }
+      }
+      id={9}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-red"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "&#215;",
+        }
+      }
+      id="*"
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "4",
+        }
+      }
+      id={4}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "5",
+        }
+      }
+      id={5}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "6",
+        }
+      }
+      id={6}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-red"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "&#8722;",
+        }
+      }
+      id="-"
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "1",
+        }
+      }
+      id={1}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "2",
+        }
+      }
+      id={2}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button undefined"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "3",
+        }
+      }
+      id={3}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-red"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "&#43;",
+        }
+      }
+      id="+"
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-zero"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "0",
+        }
+      }
+      id={0}
+      onClick={[Function]}
+    />
+    <button
+      className="calc-button is-red"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "&#61;",
+        }
+      }
+      id="="
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;

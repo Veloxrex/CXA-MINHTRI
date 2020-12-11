@@ -90,7 +90,7 @@ const genClassButton = (id) => {
     }
 };
 
-const CalculatorComponent = () => {
+export const CalculatorComponent = () => {
     const [result, setResult] = useState('');
     const [equalStatus , setEqualStatus] = useState(false)
     const reset = () => {
@@ -155,4 +155,4 @@ const CalculatorComponent = () => {
 };
 
 
-export default CalculatorComponent
+

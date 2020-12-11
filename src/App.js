@@ -1,10 +1,11 @@
 
-import CalculatorComponent from "./calculator";
+import {CalculatorComponent} from "./calculator";
+import React from "react";
 
 function App() {
   return (
     <div className="App">
-      <CalculatorComponent/>
+      {/*<CalculatorComponent/>*/}
     </div>
   );
 }
