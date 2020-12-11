@@ -1,0 +1,4 @@
+
+REACT_APP_MOVIE_DB_URL=https://api.themoviedb.org/3
+REACT_APP_IMAGE_URL=https://image.tmdb.org/t/p/w440_and_h660_face
+REACT_APP_MOVIE_DB_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNTlmY2QwMjc5NmRmZmM5ZDI0ZWZlNzQ5YzQ1MThjNCIsInN1YiI6IjVmZDM2MjExOWE5ZjlhMDAzZTkyODkyOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Hi0hHVbbR5xhxKZsCj5BjgsYc7EcCwi79A3rg23nDRc
