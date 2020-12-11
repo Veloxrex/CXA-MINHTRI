@@ -36,7 +36,6 @@ export const getMovieTopList = (page) => async (dispatch) => {
 export const getMovieSearch = (query) => async (dispatch) => {
     // dispatch(actionLoading());
     const data = await movieService.getSearchMovie(query);
-    console.log(data)
     dispatch(actionGetData(GET_MOVIE_SEARCH , data))
 };
 
